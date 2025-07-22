@@ -90,5 +90,17 @@ npx hardhat deploy
 #### Gaurdian Page
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/9513a64f-2be4-4805-82ac-3028ed75bdea" />
 
+#### Metamask request
+<img width="1919" height="1021" alt="Screenshot 2025-07-22 220521" src="https://github.com/user-attachments/assets/7b9fd57c-49d6-44d7-86d8-68c38b8df7cb" />
+
+#### Request confirmation
+<img width="1919" height="1017" alt="Screenshot 2025-07-22 221710" src="https://github.com/user-attachments/assets/5ac2b465-2709-4a1e-b6e0-142da945e1f7" />
+
+#### Transactions
+<img width="1910" height="1015" alt="Screenshot 2025-07-22 224002" src="https://github.com/user-attachments/assets/6fd5cac4-dcb1-433d-88c0-35fcf9d2f9c8" />
+
+#### Gaurdian acceptance
+<img width="1919" height="1019" alt="Screenshot 2025-07-22 233528" src="https://github.com/user-attachments/assets/1ee08a3d-0565-43ef-9484-3023174df4a1" />
+
 
 
